@@ -4,7 +4,7 @@ This is a comparision program which is written for learning various methods to b
 
 Goal is to provide a contrast in different models based on the parameters like accuracy, confusion matrix and MSE.
 
-## Basic Working 
+## 🔨 Basic Working 
 
 We took two datasets, i.e, House Price and Movie Collection and on these datasets we applied techniques such as LDA, Logistic Regression, Support Vector Machine and Decision Tree. 
 

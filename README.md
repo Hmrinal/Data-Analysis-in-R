@@ -21,6 +21,6 @@ We took two datasets, i.e, House Price and Movie Collection and on these dataset
 
 ## 📦 Install
 
-Open the code ```Analysis_LDA.R``` in Rstudio after downloading both RStudio and RStudio for windows simply run it. Before this save the csv files in a folder so that u can fetch it by putting the location of saved file in the code.
+Open the code ```Analysis_LDA.R``` in Rstudio after downloading both RStudio and RStudio for windows simply run it. Before this save the csv files in a folder so that you can fetch it by putting the location of saved file in the code.
 
 Similarly fetch the files for SVM and Decision Tree model and run the code line by line by pressing ```Ctrl+Enter```.

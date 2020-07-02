@@ -12,6 +12,10 @@ We took two datasets, i.e, House Price and Movie Collection and on these dataset
 
 2. Movie Collection, is separated in two parts. The first one tells about the collection a perticular movie made at Box Office and the other part tells that whether the movie won oscar or not. Here SVM is used for modelling and Decision Tree for both classification and regression model is made to enhance the presentation of the model. 
 
+### Test, Train and Validation
+ Split data into train, validation and test dataset.These datasets help us find the best model and prevent overfitting.
+ For each hyperparameter combination, train a model with the training dataset, and evaluate the trained model with the validation dataset to provide an unbiased evaluation. Select the best model based on the validation metrics. The test data is used to provide an unbiased evaluation of the final model.
+
 ## Dependencies
 
 - Python 3.6

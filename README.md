@@ -11,6 +11,7 @@ We took two datasets, i.e, House Price and Movie Collection and on these dataset
 1. In House Price Analysis, we have to classify the model such that it presents a view, whether the house listed will be sold in next 3 months or not. For this we employed Linear Discriminant Analysis and Logistic Regression, after which the MSE for both is calculated to examine the best model.
 
 2. Movie Collection, is separated in two parts. The first one tells about the collection a perticular movie made at Box Office and the other part tells that whether the movie won oscar or not. Here SVM is used for modelling and Decision Tree for both classification and regression model is made to enhance the presentation of the model. 
+
 ![Histogram Diagram](histogram.png)
 
 Histogram of one observation is shown as to understand the effect of a variable on observational result.

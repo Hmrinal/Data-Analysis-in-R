@@ -22,7 +22,7 @@ Histogram of one observation is shown as to understand the effect of a variable 
  
  ![Scatterplot Diagram](scatterplot.png)
  
- A cumulative study of various parameters on the result is shown. Here the features are present in diagonal coulmn and their effect on each of the other variable is observed via scatterplot.
+A cumulative study of various parameters on the result is shown. Here the features are present in diagonal coulmn and their effect on each of the other variable is observed via scatterplot.
 
 
 ## Dependencies

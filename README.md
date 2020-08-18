@@ -30,6 +30,7 @@ A cumulative study of various parameters on the result is shown. Here the featur
 - RStudio
 - NumPy
 - Scikit-learn
+- Matplotlib
 
 ## 📦 Install
 

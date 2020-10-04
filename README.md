@@ -14,7 +14,7 @@ We took two datasets, i.e, House Price and Movie Collection and on these dataset
 
 ![Histogram Diagram](histogram.png)
 
-Histogram of one observation is shown as to understand the effect of a variable on observational result.
+- Histogram of one observation is shown as to understand the effect of a variable on observational result.
 
 ### Test, Train and Validation
 Split data into train, validation and test dataset.These datasets help us find the best model and prevent overfitting.
@@ -22,7 +22,7 @@ For each hyperparameter combination, train a model with the training dataset, an
  
 ![Scatterplot Diagram](scatterplot.png)
  
-A cumulative study of various parameters on the result is shown. Here the features are present in diagonal coulmn and their effect on each of the other variable is observed via scatterplot.
+- A cumulative study of various parameters on the result is shown. Here the features are present in diagonal coulmn and their effect on each of the other variable is observed via scatterplot.
 
 ## Dependencies
 

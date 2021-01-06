@@ -23,6 +23,7 @@ For each hyperparameter combination, train a model with the training dataset, an
  
 ![Scatterplot Diagram](scatterplot.png)
  
+ 
 - A cumulative study of various parameters on the result is shown. Here the features are present in diagonal coulmn and their effect on each of the other variable is observed via scatterplot.
 
 ## Dependencies

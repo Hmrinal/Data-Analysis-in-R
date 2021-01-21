@@ -1,4 +1,4 @@
-# Data-Analysis-in-R
+# Data Analysis in R
 
 This is a comparision program which is written for learning various methods to build a machine learning model. This can be used in Business Data Analysis and in various prediction models in oeder to make them efficient and presentable.
 

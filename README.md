@@ -6,7 +6,7 @@ Goal is to provide a contrast in different models based on the parameters like a
 
 ## 🔨 Basic Working 
 
-We took two datasets, i.e, House Price and Movie Collection and on these datasets we applied techniques such as LDA, Logistic Regression, Support Vector Machine and Decision Tree. 
+We took two datasets, i.e, `House Price and Movie Collection` and on these datasets we applied techniques such as `LDA, Logistic Regression, Support Vector Machine and Decision Tree`. 
 
 1. In House Price Analysis, we have to classify the model such that it presents a view, whether the house listed will be sold in next 3 months or not. For this we employed Linear Discriminant Analysis and Logistic Regression, after which the MSE for both is calculated to examine the best model.
 

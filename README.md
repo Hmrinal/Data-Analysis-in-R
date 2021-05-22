@@ -10,7 +10,7 @@ We took two datasets, i.e, `House Price and Movie Collection` and on these datas
 
 1. In House Price Analysis, we have to classify the model such that it presents a view, whether the house listed will be sold in next 3 months or not. For this we employed Linear Discriminant Analysis and Logistic Regression, after which the MSE for both is calculated to examine the best model.
 
-2. Movie Collection, is separated in two parts. The first one tells about the collection a perticular movie made at Box Office and the other part tells that whether the movie won oscar or not. Here SVM is used for modelling and Decision Tree for both classification and regression model is made to enhance the presentation of the model. 
+2. Movie Collection, is separated in two parts. The first one tells about the collection a perticular movie made at `Box Office` and the other part tells that whether the movie won oscar or not. Here SVM is used for modelling and Decision Tree for both classification and regression model is made to enhance the presentation of the model. 
 
 ![Histogram Diagram](histogram.png)
 
@@ -35,6 +35,6 @@ For each hyperparameter combination, train a model with the training dataset, an
 
 ## 📦 Install
 
-Open the code ```Analysis_LDA.R``` in Rstudio after downloading both RStudio and 'RStudio for Windows' simply run it. Before this save the csv files in a folder so that you can fetch it by putting the location of saved file in the code.
+Open the code `Analysis_LDA.R` in Rstudio after downloading both RStudio and 'RStudio for Windows' simply run it. Before this save the csv files in a folder so that you can fetch it by putting the location of saved file in the code.
 
 Similarly fetch the files for SVM and Decision Tree model and run the code line by line by pressing ```Ctrl+Enter```, with single or multiple selections.
